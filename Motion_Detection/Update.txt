@@ -1,0 +1,3 @@
+Motion Detection via webcam.
+1. Python coded and used openCV for frame comparision(comparing intensity with the static frame) and taking contours and bounding the object. (working and tested).
+2. added Pandas for storing the timestamp of motion detected in a csv file (in the same folder as the py file).
